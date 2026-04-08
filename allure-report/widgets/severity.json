@@ -1,0 +1,1 @@
+[{"uid":"df3756f9ab36fe98","name":"Login a incorrect password","time":{"start":1775630549862,"stop":1775630555439,"duration":5577},"status":"passed","severity":"normal"},{"uid":"6493e9ed8ee04d59","name":"Login to the page","time":{"start":1775630518090,"stop":1775630548418,"duration":30328},"status":"broken","severity":"normal"}]
